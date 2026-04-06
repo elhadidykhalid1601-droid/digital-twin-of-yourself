@@ -80,6 +80,31 @@ The prompt itself doesn't collect data, call APIs, or execute code. The risk is 
 
 Full checklist in `SAFETY_CHECKLIST.md`.
 
+## Example Output (Layer 3)
+
+Running the full extraction on 60 files (27,342 words) produced:
+
+**Quantitative findings:**
+- Zero hedging instances ("I think," "maybe," "perhaps") across the entire corpus
+- Dominant metaphor family: Architectural/Structural (309 instances)
+- Top crutch phrase: "content infrastructure" (26x)
+- Sentence structure: 46% short (punchy), 35% medium, 19% long
+- 97% declarative sentences, 0% questions
+
+**The stress test:**
+> *"$50K for manual labor — prestigious but breaks every rule in your Decision Logic."*
+>
+> The Twin declined, explained why using the extracted logic framework, and counter-pitched a systems version. Which is exactly what the subject would have done.
+
+**The surprising pattern:**
+> "You build measurement tools you don't use. The Content Spiral names this exact pattern in your clients. It may also be yours."
+
+Layer 3 also generates a visual dashboard with word frequency clouds, topic cluster maps, metaphor breakdowns, and tone spectrum charts — saved as an HTML file you open in your browser.
+
+![Dashboard](assets/example-dashboard.png)
+
+---
+
 ## Why This Exists
 
 Most AI persona tools either interview you (slow, self-report bias) or ingest everything (privacy nightmare). This extracts patterns from your actual writing, validates them with a stress test, and gives you a usable artifact — not a profile you can't do anything with.
@@ -94,10 +119,11 @@ The output is a System Prompt you can load into any AI to:
 
 ---
 
-## Built With
-- Claude (Anthropic)
-- Claude Code agent skills
-- Psycholinguistic pattern analysis
+## What's Next
+
+Once you have your Twin, score your published content against it:
+- **[Content Audit](https://github.com/whystrohm/whystrohm-audit)** — 5-layer diagnostic that scores your content and rewrites one piece live
+- **[Voice Scorer](https://github.com/whystrohm/whystrohm-voice-scorer)** — measures drift between your website voice and social content
 
 ## License
 MIT — use it, fork it, improve it.
