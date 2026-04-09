@@ -4,6 +4,8 @@
 
 Built by [WhyStrohm](https://whystrohm.com) — embedded creative engine for founder-led brands.
 
+![Digital Twin V2](assets/hero.png)
+
 ![Demo](assets/demo.gif)
 
 ---
